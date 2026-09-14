@@ -69,6 +69,11 @@ Contributed to the electrical/electronic systems of an electric vehicle project.
 - Isolation monitoring
 - Embedded/electronic system integration
 
+## 📄 Publication
+
+**Yariçi, İ., & Karataş, C. (2026).** *Geniş Alan Gözetimi ve Güvenliği için Görüntü İşleme Tabanlı Otonom İHA Sisteminin Tasarımı ve Gerçekleştirilmesi.* Türkiye İnsansız Hava Araçları Dergisi.  
+**DOI:** [10.51534/tiha.1847923](https://doi.org/10.51534/tiha.1847923)
+
 ## 📚 Current Focus
 
 - Embedded software development
