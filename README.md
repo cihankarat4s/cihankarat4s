@@ -50,6 +50,17 @@ Team project for district-level prediction of power outage risk, expected outage
 
 ➡️ [View team repository](https://github.com/Dilsahsen/ege-ariza-erken-uyari)
 
+### Pet Sitter Digital Bundle Generator
+Web application for designing and exporting customizable printable document bundles for pet-care businesses.
+
+- Customizable branding, themes and document layouts
+- 17-page printable bundle workflow
+- PDF, PNG and ZIP export tools
+- Export validation and quality-control workflow
+- Etsy listing preview/mockup generation
+
+**Technologies:** React, TypeScript, Vite, Tailwind CSS, jsPDF, html2canvas, JSZip
+
 ### Teknofest Electric Vehicle Project
 Contributed to the electrical/electronic systems of an electric vehicle project.
 
