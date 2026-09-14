@@ -90,7 +90,7 @@ I am particularly interested in entry-level roles involving:
 ## 📫 Contact
 
 - GitHub: [cihankarat4s](https://github.com/cihankarat4s)
-- LinkedIn: Add your LinkedIn profile link here
+- LinkedIn: [linkedin.com/in/cihankarat4s](https://www.linkedin.com/in/cihankarat4s)
 
 ---
 
