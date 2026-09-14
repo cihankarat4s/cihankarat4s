@@ -58,17 +58,6 @@ Contributed to the electrical/electronic systems of an electric vehicle project.
 - Isolation monitoring
 - Embedded/electronic system integration
 
-### STM32F4 Embedded Experiments
-Hands-on STM32F4 projects covering low-level and HAL-based embedded development.
-
-- Clock configuration and PLL
-- GPIO and button control
-- Register-level programming
-- STM32 HAL
-- CAN bus experiments
-
-➡️ [View repository](https://github.com/cihankarat4s/STM32F4-DISCOVERY)
-
 ## 📚 Current Focus
 
 - Embedded software development
