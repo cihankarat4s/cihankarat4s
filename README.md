@@ -35,6 +35,21 @@ Autonomous UAV developed for field patrol and unauthorized-entry detection.
 
 **Technologies:** Python, OpenCV, Raspberry Pi, Pixhawk, ArduPilot, Mission Planner
 
+### 🥈 Power Outage Early Warning System — EGEKAF'26 Ideathon
+**2nd Place — 24-hour Ideathon**  
+**Role:** Data Preprocessing & Machine Learning
+
+Team project for district-level prediction of power outage risk, expected outage count, and outage duration using historical outage and weather data.
+
+- Cleaned, organized, and preprocessed the raw outage dataset
+- Transformed the data into a model-ready structure
+- Worked on feature preparation for machine learning
+- Trained the machine learning models used for outage prediction
+
+**Technologies:** Python, Pandas, Scikit-learn, Machine Learning, Data Preprocessing
+
+➡️ [View team repository](https://github.com/Dilsahsen/ege-ariza-erken-uyari)
+
 ### Teknofest Electric Vehicle Project
 Contributed to the electrical/electronic systems of an electric vehicle project.
 
