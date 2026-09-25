@@ -1,102 +1,75 @@
-# Hi, I'm Cihan Karataş 👋
+# Cihan Karataş
 
-Electrical & Electronics Engineering graduate focused on **Embedded Systems, Computer Vision, Autonomous Systems, and Industrial Automation**.
+Electrical & Electronics Engineering graduate working on **embedded systems, computer vision, and autonomous systems**.
 
-I enjoy building practical engineering projects that combine hardware, embedded software, control, and AI. My current goal is to strengthen my portfolio with well-documented projects in embedded software, computer vision, avionics/autonomous systems, and automation.
+My projects include a Pixhawk–Raspberry Pi autonomous UAV, machine-learning models for power-outage prediction, and electrical/electronic systems for a competition electric vehicle.
 
-## 🔧 Technical Skills
+[LinkedIn](https://www.linkedin.com/in/cihankarat4s) · [Research publication](https://doi.org/10.51534/tiha.1847923) · [Power-outage prediction — team repository](https://github.com/Dilsahsen/ege-ariza-erken-uyari)
 
-**Programming**  
-C • Python • MATLAB
+## Selected Engineering Projects
 
-**Embedded & Electronics**  
-STM32 • Arduino • Raspberry Pi • Pixhawk • UART • CAN • GPIO • Embedded C • PCB Design
+### Autonomous Field Security Drone
+**TÜBİTAK 2209-A · Computer vision & autonomous flight**
 
-**Computer Vision & AI**  
-OpenCV • YOLO • Image Processing • Object Detection • Segmentation • LangChain • Gemini • FAISS • RAG
+An autonomous UAV project for field patrol and unauthorized-entry detection.
 
-**Automation & Control**  
-PLC • Ladder Logic • Industrial Automation Fundamentals
+- Integrated a Raspberry Pi companion computer with a Pixhawk flight controller using UART communication.
+- Worked on image-based change detection and target localization.
+- Developed mission logic for patrol, target approach, warning, and return to the patrol mission.
+- Used Mission Planner and ArduPilot for mission integration.
 
-**Tools**  
-Git • GitHub • Altium Designer • Mission Planner • ArduPilot • VS Code
+**Tools:** Python, OpenCV, Raspberry Pi, Pixhawk, ArduPilot, Mission Planner
 
-## 🚀 Selected Projects
+**Related publication:** İ. Yariçi & C. Karataş (2026). *Geniş Alan Gözetimi ve Güvenliği için Görüntü İşleme Tabanlı Otonom İHA Sisteminin Tasarımı ve Gerçekleştirilmesi.* Türkiye İnsansız Hava Araçları Dergisi. [DOI: 10.51534/tiha.1847923](https://doi.org/10.51534/tiha.1847923)
 
-### Autonomous Field Security Drone — TÜBİTAK 2209-A
-Autonomous UAV developed for field patrol and unauthorized-entry detection.
+### Power Outage Early Warning System
+**EGEKAF'26 · 2nd place in a 24-hour ideathon · Team project**
 
-- Pixhawk-based autonomous flight control
-- Raspberry Pi companion computer
-- Computer-vision based change detection and target localization
-- UART communication between Raspberry Pi and Pixhawk
-- Autonomous patrol, target approach, warning, and return-to-mission logic
-- Mission Planner / ArduPilot integration
+A district-level prediction prototype using historical outage and weather data to estimate outage risk, expected outage count, and outage duration.
 
-**Technologies:** Python, OpenCV, Raspberry Pi, Pixhawk, ArduPilot, Mission Planner
+**My contribution — data preprocessing & machine learning:**
 
-### 🥈 Power Outage Early Warning System — EGEKAF'26 Ideathon
-**2nd Place — 24-hour Ideathon**  
-**Role:** Data Preprocessing & Machine Learning
+- Cleaned and organized raw outage records into a model-ready dataset.
+- Prepared features for machine-learning models.
+- Trained models used for outage prediction.
 
-Team project for district-level prediction of power outage risk, expected outage count, and outage duration using historical outage and weather data.
+**Tools:** Python, Pandas, Scikit-learn
 
-- Cleaned, organized, and preprocessed the raw outage dataset
-- Transformed the data into a model-ready structure
-- Worked on feature preparation for machine learning
-- Trained the machine learning models used for outage prediction
+[Explore the team repository](https://github.com/Dilsahsen/ege-ariza-erken-uyari)
 
-**Technologies:** Python, Pandas, Scikit-learn, Machine Learning, Data Preprocessing
+### Teknofest Electric Vehicle
+**Electrical & electronic systems · Team project**
 
-➡️ [View team repository](https://github.com/Dilsahsen/ege-ariza-erken-uyari)
+Contributed to battery management, vehicle control, isolation monitoring, and embedded/electronic system integration.
+
+## Additional Software Project
 
 ### Pet Sitter Digital Bundle Generator
-Web application for designing and exporting customizable printable document bundles for pet-care businesses.
 
-- Customizable branding, themes and document layouts
-- 17-page printable bundle workflow
-- PDF, PNG and ZIP export tools
-- Export validation and quality-control workflow
-- Etsy listing preview/mockup generation
+A web application for creating customizable printable document bundles for pet-care businesses.
 
-**Technologies:** React, TypeScript, Vite, Tailwind CSS, jsPDF, html2canvas, JSZip
+- Branding, theme, and document-layout customization.
+- A 17-page bundle with PDF, PNG, and ZIP export.
+- Export validation, quality-control tools, and Etsy listing mockups.
 
-### Teknofest Electric Vehicle Project
-Contributed to the electrical/electronic systems of an electric vehicle project.
+**Tools:** React, TypeScript, Vite, Tailwind CSS, jsPDF, html2canvas, JSZip
 
-- Battery Management System (BMS)
-- Vehicle control systems
-- Isolation monitoring
-- Embedded/electronic system integration
+## Technical Skills
 
-## 📄 Publication
+| Area | Technologies |
+| --- | --- |
+| Programming | C, Python, MATLAB |
+| Embedded systems | STM32, Arduino, Raspberry Pi, Pixhawk, Embedded C, UART, CAN, GPIO |
+| Electronics | PCB design, Altium Designer |
+| Computer vision | OpenCV, YOLO, image processing, object detection, segmentation |
+| AI applications | LangChain, Gemini, FAISS, RAG |
+| Automation | PLC, Ladder Logic, industrial automation fundamentals |
+| Development tools | Git, GitHub, VS Code, Mission Planner, ArduPilot |
 
-**Yariçi, İ., & Karataş, C. (2026).** *Geniş Alan Gözetimi ve Güvenliği için Görüntü İşleme Tabanlı Otonom İHA Sisteminin Tasarımı ve Gerçekleştirilmesi.* Türkiye İnsansız Hava Araçları Dergisi.  
-**DOI:** [10.51534/tiha.1847923](https://doi.org/10.51534/tiha.1847923)
+## Current Focus
 
-## 📚 Current Focus
+Embedded software, computer vision on edge devices, and autonomous systems. I am interested in entry-level engineering roles in these areas, as well as signal processing and industrial automation.
 
-- Embedded software development
-- Computer vision and edge AI
-- Autonomous systems / avionics
-- STM32 and real-time embedded applications
-- Industrial automation
+## Contact
 
-## 🎯 Career Interests
-
-I am particularly interested in entry-level roles involving:
-
-- Embedded Software Engineering
-- Computer Vision Engineering
-- Autonomous Systems / Avionics
-- Signal Processing
-- Automation / PLC Engineering
-
-## 📫 Contact
-
-- GitHub: [cihankarat4s](https://github.com/cihankarat4s)
-- LinkedIn: [linkedin.com/in/cihankarat4s](https://www.linkedin.com/in/cihankarat4s)
-
----
-
-> This profile is continuously being improved as I document and publish new engineering projects.
+[LinkedIn](https://www.linkedin.com/in/cihankarat4s) · [GitHub](https://github.com/cihankarat4s)
